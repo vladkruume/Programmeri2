@@ -1,0 +1,14 @@
+C:\Users\opilane\source\repos\FailidKruume\FailidKruume\FailidKruume\bin\Debug\netstandard2.0\FailidKruume.deps.json
+C:\Users\opilane\source\repos\FailidKruume\FailidKruume\FailidKruume\bin\Debug\netstandard2.0\FailidKruume.dll
+C:\Users\opilane\source\repos\FailidKruume\FailidKruume\FailidKruume\bin\Debug\netstandard2.0\ref\FailidKruume.dll
+C:\Users\opilane\source\repos\FailidKruume\FailidKruume\FailidKruume\bin\Debug\netstandard2.0\FailidKruume.pdb
+C:\Users\opilane\source\repos\FailidKruume\FailidKruume\FailidKruume\obj\Debug\netstandard2.0\FailidKruume.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\FailidKruume\FailidKruume\FailidKruume\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\opilane\source\repos\FailidKruume\FailidKruume\FailidKruume\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\opilane\source\repos\FailidKruume\FailidKruume\FailidKruume\obj\Debug\netstandard2.0\FailidKruume.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\FailidKruume\FailidKruume\FailidKruume\obj\Debug\netstandard2.0\FailidKruume.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\FailidKruume\FailidKruume\FailidKruume\obj\Debug\netstandard2.0\FailidKruume.AssemblyInfo.cs
+C:\Users\opilane\source\repos\FailidKruume\FailidKruume\FailidKruume\obj\Debug\netstandard2.0\FailidKruume.dll
+C:\Users\opilane\source\repos\FailidKruume\FailidKruume\FailidKruume\obj\Debug\netstandard2.0\ref\FailidKruume.dll
+C:\Users\opilane\source\repos\FailidKruume\FailidKruume\FailidKruume\obj\Debug\netstandard2.0\FailidKruume.pdb
+C:\Users\opilane\source\repos\FailidKruume\FailidKruume\FailidKruume\obj\Debug\netstandard2.0\XamlC.stamp
